@@ -1,0 +1,8 @@
+
+CHANGES
+=======
+
+1.4.7 (unreleased)
+------------------
+
+- Initial packaging of node-uuid as a fanstatic package.
